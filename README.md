@@ -1,16 +1,23 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Raj Kiran Singh</h1>
 
-<!--
-**rajkiran-dotin/rajkiran-dotin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Full Stack Web Developer | PHP & Laravel
+</h3>
 
-Here are some ideas to get you started:
+👨‍💻 I'm a web developer based in Lucknow, India, building
+web applications with PHP, Laravel, MySQL, and JavaScript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 My projects include e-commerce platforms, social media
+management tools, and digital wedding invitations.
+
+🌱 I'm strengthening my skills in Laravel, REST APIs,
+and problem-solving through hands-on projects.
+
+🤝 I'm open to web development opportunities and collaborations.
+
+### Languages and Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,html,css,js,bootstrap,git,github" alt="PHP, Laravel, MySQL, HTML, CSS, JavaScript, Bootstrap, Git and GitHub" />
+</p>
+
