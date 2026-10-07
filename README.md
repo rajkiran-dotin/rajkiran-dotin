@@ -18,6 +18,6 @@ and problem-solving through hands-on projects.
 ### Languages and Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,html,css,js,bootstrap,git,github" alt="PHP, Laravel, MySQL, HTML, CSS, JavaScript, Bootstrap, Git and GitHub,Postman,REST API,Power BI,Tableu, Wordpress" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,html,css,js,bootstrap,git,github,Postman,REST API,Power BI,Tableu, Wordpress" alt="PHP, Laravel, MySQL, HTML, CSS, JavaScript, Bootstrap, Git and GitHub,Postman,REST API,Power BI,Tableu, Wordpress" />
 </p>
 
